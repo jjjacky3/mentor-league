@@ -128,6 +128,8 @@ def main() -> None:
     parser.add_argument("--mock", action="store_true", help="Generate/use mock data for testing/demo")
     parser.add_argument("--week", type=int, default=None, help="Target week number")
     parser.add_argument("--init-pairs", action="store_true", help="Inspect Sleeper league and help assign pairs")
+    parser.add_argument("--serve", action="store_true", help="Host dashboard locally on HTTP server")
+    parser.add_argument("--port", type=int, default=8000, help="Port to host locally (default: 8000)")
     parser.add_argument("--config", type=str, default="config/pairs.json", help="Path to config file")
 
     args = parser.parse_args()
@@ -140,6 +142,30 @@ def main() -> None:
             league_id = input("Enter Sleeper League ID: ").strip()
         client = SleeperClient()
         run_init_pairs(client, league_id, config_path)
+        return
+
+    if args.serve:
+        import http.server
+        import socketserver
+        import webbrowser
+        docs_dir = Path("docs")
+
+        class Handler(http.server.SimpleHTTPRequestHandler):
+            def __init__(self, *a, **kw):
+                super().__init__(*a, directory=str(docs_dir), **kw)
+
+        with socketserver.TCPServer(("", args.port), Handler) as httpd:
+            url = f"http://localhost:{args.port}"
+            print(f"\n🚀 Local Mentor League Dashboard running at: {url}")
+            print("Press Ctrl+C to stop the server.\n")
+            try:
+                webbrowser.open(url)
+            except Exception:
+                pass
+            try:
+                httpd.serve_forever()
+            except KeyboardInterrupt:
+                print("\nServer stopped.")
         return
 
     run_pipeline(
