@@ -1,0 +1,52 @@
+[
+  {
+    "roster_id": 1,
+    "matchup_id": 1,
+    "points": 108.2
+  },
+  {
+    "roster_id": 7,
+    "matchup_id": 1,
+    "points": 114.6
+  },
+  {
+    "roster_id": 2,
+    "matchup_id": 2,
+    "points": 99.4
+  },
+  {
+    "roster_id": 6,
+    "matchup_id": 2,
+    "points": 94.0
+  },
+  {
+    "roster_id": 3,
+    "matchup_id": 3,
+    "points": 121.8
+  },
+  {
+    "roster_id": 8,
+    "matchup_id": 3,
+    "points": 105.3
+  },
+  {
+    "roster_id": 4,
+    "matchup_id": 4,
+    "points": 112.5
+  },
+  {
+    "roster_id": 9,
+    "matchup_id": 4,
+    "points": 130.2
+  },
+  {
+    "roster_id": 5,
+    "matchup_id": 5,
+    "points": 95.6
+  },
+  {
+    "roster_id": 10,
+    "matchup_id": 5,
+    "points": 92.1
+  }
+]

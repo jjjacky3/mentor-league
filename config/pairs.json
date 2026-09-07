@@ -1,0 +1,72 @@
+{
+  "league_id": "1401292991296970752",
+  "season": "2026",
+  "upset_bonus_multiplier": 1.5,
+  "weighted_score": {
+    "beginner_weight": 0.7,
+    "expert_weight": 0.3
+  },
+  "playoff_qualifiers": 4,
+  "pairs": [
+    {
+      "id": 1,
+      "name": "jacky33 & rachellee2",
+      "beginner": {
+        "roster_id": 5,
+        "name": "rachellee2"
+      },
+      "expert": {
+        "roster_id": 6,
+        "name": "jacky33"
+      }
+    },
+    {
+      "id": 2,
+      "name": "davidleechy & richardhermanto",
+      "beginner": {
+        "roster_id": 10,
+        "name": "davidleechy"
+      },
+      "expert": {
+        "roster_id": 9,
+        "name": "richardhermanto"
+      }
+    },
+    {
+      "id": 3,
+      "name": "skylar & eunchaeluvr",
+      "beginner": {
+        "roster_id": 3,
+        "name": "skylar9ook"
+      },
+      "expert": {
+        "roster_id": 1,
+        "name": "eunchaeluvr"
+      }
+    },
+    {
+      "id": 4,
+      "name": "clee4144 & christineypoo",
+      "beginner": {
+        "roster_id": 7,
+        "name": "christineypoo"
+      },
+      "expert": {
+        "roster_id": 8,
+        "name": "clee4144"
+      }
+    },
+    {
+      "id": 5,
+      "name": "bobop & zimi",
+      "beginner": {
+        "roster_id": 2,
+        "name": "bobop1"
+      },
+      "expert": {
+        "roster_id": 4,
+        "name": "zimiiiiiiii"
+      }
+    }
+  ]
+}

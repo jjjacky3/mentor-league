@@ -1,0 +1,46 @@
+name: Weekly Mentor League Update
+
+on:
+  schedule:
+    # Run every Tuesday at 09:00 UTC (after Monday Night Football is finalized)
+    - cron: '0 9 * * 2'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-standings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch Sleeper data and regenerate standings
+        run: |
+          python -m src.main --fetch
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(standings): weekly automated standings & leaderboard update"
+            git push
+          fi
+
