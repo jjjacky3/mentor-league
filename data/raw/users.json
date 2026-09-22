@@ -48,7 +48,7 @@
     "is_owner": null,
     "league_id": "1401292991296970752",
     "metadata": {
-      "allow_pn": "on",
+      "allow_pn": "off",
       "mention_pn": "on"
     },
     "settings": null,
