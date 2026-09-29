@@ -1,9 +1,9 @@
 {
   "league_name": "chuzzez",
   "season": "2026",
-  "total_weeks": 3,
-  "current_week": 2,
-  "active_week": 2,
+  "total_weeks": 4,
+  "current_week": 3,
+  "active_week": 3,
   "is_preseason": false,
   "pair_standings": [
     {
@@ -13,14 +13,14 @@
       "expert_roster_id": 9,
       "beginner_name": "davidleechy",
       "expert_name": "richardhermanto",
-      "wins": 4.5,
+      "wins": 6.5,
       "losses": 0.0,
       "ties": 0.0,
-      "points_for": 590.78,
-      "points_against": 462.12,
-      "weighted_score_total": 288.76,
+      "points_for": 862.32,
+      "points_against": 698.4,
+      "weighted_score_total": 416.78,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -37,12 +37,20 @@
           "points": 252.82,
           "weighted_score": 127.77,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 2.0,
+          "losses": 0.0,
+          "points": 271.54,
+          "weighted_score": 128.02,
+          "upset": false
         }
       ],
       "rank": 1,
       "win_pct": 1.0,
-      "avg_points": 295.39,
-      "avg_weighted_score": 144.38,
+      "avg_points": 287.44,
+      "avg_weighted_score": 138.93,
       "is_playoff_seed": true,
       "seed": 1
     },
@@ -54,13 +62,13 @@
       "beginner_name": "christineypoo",
       "expert_name": "clee4144",
       "wins": 3.5,
-      "losses": 1.0,
+      "losses": 3.0,
       "ties": 0.0,
-      "points_for": 622.76,
-      "points_against": 465.72,
-      "weighted_score_total": 296.35,
+      "points_for": 859.94,
+      "points_against": 744.04,
+      "weighted_score_total": 418.3,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -77,54 +85,22 @@
           "points": 265.7,
           "weighted_score": 124.65,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 0.0,
+          "losses": 2.0,
+          "points": 237.18,
+          "weighted_score": 121.95,
+          "upset": false
         }
       ],
       "rank": 2,
-      "win_pct": 0.778,
-      "avg_points": 311.38,
-      "avg_weighted_score": 148.18,
+      "win_pct": 0.538,
+      "avg_points": 286.65,
+      "avg_weighted_score": 139.43,
       "is_playoff_seed": true,
       "seed": 2
-    },
-    {
-      "pair_id": 5,
-      "pair_name": "bobop & zimi",
-      "beginner_roster_id": 2,
-      "expert_roster_id": 4,
-      "beginner_name": "bobop1",
-      "expert_name": "zimiiiiiiii",
-      "wins": 2.0,
-      "losses": 2.0,
-      "ties": 0.0,
-      "points_for": 478.22,
-      "points_against": 493.48,
-      "weighted_score_total": 240.98,
-      "upsets_total": 0,
-      "weeks_played": 2,
-      "weekly_history": [
-        {
-          "week": 1,
-          "wins": 1.0,
-          "losses": 1.0,
-          "points": 227.78,
-          "weighted_score": 121.86,
-          "upset": false
-        },
-        {
-          "week": 2,
-          "wins": 1.0,
-          "losses": 1.0,
-          "points": 250.44,
-          "weighted_score": 119.12,
-          "upset": false
-        }
-      ],
-      "rank": 3,
-      "win_pct": 0.5,
-      "avg_points": 239.11,
-      "avg_weighted_score": 120.49,
-      "is_playoff_seed": true,
-      "seed": 3
     },
     {
       "pair_id": 3,
@@ -133,14 +109,14 @@
       "expert_roster_id": 1,
       "beginner_name": "skylar9ook",
       "expert_name": "drakemayeluvr1",
-      "wins": 1.5,
+      "wins": 3.0,
       "losses": 3.0,
-      "ties": 0.0,
-      "points_for": 513.22,
-      "points_against": 599.64,
-      "weighted_score_total": 275.88,
+      "ties": 1.0,
+      "points_for": 786.32,
+      "points_against": 860.82,
+      "weighted_score_total": 406.99,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -157,12 +133,68 @@
           "points": 231.8,
           "weighted_score": 122.67,
           "upset": true
+        },
+        {
+          "week": 3,
+          "wins": 1.5,
+          "losses": 0.0,
+          "points": 273.1,
+          "weighted_score": 131.11,
+          "upset": false
+        }
+      ],
+      "rank": 3,
+      "win_pct": 0.5,
+      "avg_points": 262.11,
+      "avg_weighted_score": 135.66,
+      "is_playoff_seed": true,
+      "seed": 3
+    },
+    {
+      "pair_id": 5,
+      "pair_name": "bobop & zimi",
+      "beginner_roster_id": 2,
+      "expert_roster_id": 4,
+      "beginner_name": "bobop1",
+      "expert_name": "zimiiiiiiii",
+      "wins": 3.0,
+      "losses": 3.0,
+      "ties": 0.0,
+      "points_for": 710.68,
+      "points_against": 720.06,
+      "weighted_score_total": 354.43,
+      "upsets_total": 0,
+      "weeks_played": 3,
+      "weekly_history": [
+        {
+          "week": 1,
+          "wins": 1.0,
+          "losses": 1.0,
+          "points": 227.78,
+          "weighted_score": 121.86,
+          "upset": false
+        },
+        {
+          "week": 2,
+          "wins": 1.0,
+          "losses": 1.0,
+          "points": 250.44,
+          "weighted_score": 119.12,
+          "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 1.0,
+          "losses": 1.0,
+          "points": 232.46,
+          "weighted_score": 113.45,
+          "upset": false
         }
       ],
       "rank": 4,
-      "win_pct": 0.333,
-      "avg_points": 256.61,
-      "avg_weighted_score": 137.94,
+      "win_pct": 0.5,
+      "avg_points": 236.89,
+      "avg_weighted_score": 118.14,
       "is_playoff_seed": true,
       "seed": 4
     },
@@ -173,14 +205,14 @@
       "expert_roster_id": 6,
       "beginner_name": "rachellee2",
       "expert_name": "jacky33",
-      "wins": 0.0,
-      "losses": 4.0,
-      "ties": 0.0,
-      "points_for": 423.2,
-      "points_against": 607.22,
-      "weighted_score_total": 191.65,
+      "wins": 0.5,
+      "losses": 5.0,
+      "ties": 1.0,
+      "points_for": 684.38,
+      "points_against": 880.32,
+      "weighted_score_total": 314.42,
       "upsets_total": 0,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -197,12 +229,20 @@
           "points": 182.12,
           "weighted_score": 77.0,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 0.5,
+          "losses": 1.0,
+          "points": 261.18,
+          "weighted_score": 122.77,
+          "upset": false
         }
       ],
       "rank": 5,
-      "win_pct": 0.0,
-      "avg_points": 211.6,
-      "avg_weighted_score": 95.83,
+      "win_pct": 0.091,
+      "avg_points": 228.13,
+      "avg_weighted_score": 104.81,
       "is_playoff_seed": false,
       "seed": null
     }
@@ -216,13 +256,13 @@
       "beginner_name": "christineypoo",
       "expert_name": "clee4144",
       "wins": 3.5,
-      "losses": 1.0,
+      "losses": 3.0,
       "ties": 0.0,
-      "points_for": 622.76,
-      "points_against": 465.72,
-      "weighted_score_total": 296.35,
+      "points_for": 859.94,
+      "points_against": 744.04,
+      "weighted_score_total": 418.3,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -239,12 +279,20 @@
           "points": 265.7,
           "weighted_score": 124.65,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 0.0,
+          "losses": 2.0,
+          "points": 237.18,
+          "weighted_score": 121.95,
+          "upset": false
         }
       ],
       "rank": 2,
-      "win_pct": 0.778,
-      "avg_points": 311.38,
-      "avg_weighted_score": 148.18,
+      "win_pct": 0.538,
+      "avg_points": 286.65,
+      "avg_weighted_score": 139.43,
       "is_playoff_seed": true,
       "seed": 2
     },
@@ -255,14 +303,14 @@
       "expert_roster_id": 9,
       "beginner_name": "davidleechy",
       "expert_name": "richardhermanto",
-      "wins": 4.5,
+      "wins": 6.5,
       "losses": 0.0,
       "ties": 0.0,
-      "points_for": 590.78,
-      "points_against": 462.12,
-      "weighted_score_total": 288.76,
+      "points_for": 862.32,
+      "points_against": 698.4,
+      "weighted_score_total": 416.78,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -279,12 +327,20 @@
           "points": 252.82,
           "weighted_score": 127.77,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 2.0,
+          "losses": 0.0,
+          "points": 271.54,
+          "weighted_score": 128.02,
+          "upset": false
         }
       ],
       "rank": 1,
       "win_pct": 1.0,
-      "avg_points": 295.39,
-      "avg_weighted_score": 144.38,
+      "avg_points": 287.44,
+      "avg_weighted_score": 138.93,
       "is_playoff_seed": true,
       "seed": 1
     },
@@ -295,14 +351,14 @@
       "expert_roster_id": 1,
       "beginner_name": "skylar9ook",
       "expert_name": "drakemayeluvr1",
-      "wins": 1.5,
+      "wins": 3.0,
       "losses": 3.0,
-      "ties": 0.0,
-      "points_for": 513.22,
-      "points_against": 599.64,
-      "weighted_score_total": 275.88,
+      "ties": 1.0,
+      "points_for": 786.32,
+      "points_against": 860.82,
+      "weighted_score_total": 406.99,
       "upsets_total": 1,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -319,14 +375,22 @@
           "points": 231.8,
           "weighted_score": 122.67,
           "upset": true
+        },
+        {
+          "week": 3,
+          "wins": 1.5,
+          "losses": 0.0,
+          "points": 273.1,
+          "weighted_score": 131.11,
+          "upset": false
         }
       ],
-      "rank": 4,
-      "win_pct": 0.333,
-      "avg_points": 256.61,
-      "avg_weighted_score": 137.94,
+      "rank": 3,
+      "win_pct": 0.5,
+      "avg_points": 262.11,
+      "avg_weighted_score": 135.66,
       "is_playoff_seed": true,
-      "seed": 4
+      "seed": 3
     },
     {
       "pair_id": 5,
@@ -335,14 +399,14 @@
       "expert_roster_id": 4,
       "beginner_name": "bobop1",
       "expert_name": "zimiiiiiiii",
-      "wins": 2.0,
-      "losses": 2.0,
+      "wins": 3.0,
+      "losses": 3.0,
       "ties": 0.0,
-      "points_for": 478.22,
-      "points_against": 493.48,
-      "weighted_score_total": 240.98,
+      "points_for": 710.68,
+      "points_against": 720.06,
+      "weighted_score_total": 354.43,
       "upsets_total": 0,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -359,14 +423,22 @@
           "points": 250.44,
           "weighted_score": 119.12,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 1.0,
+          "losses": 1.0,
+          "points": 232.46,
+          "weighted_score": 113.45,
+          "upset": false
         }
       ],
-      "rank": 3,
+      "rank": 4,
       "win_pct": 0.5,
-      "avg_points": 239.11,
-      "avg_weighted_score": 120.49,
+      "avg_points": 236.89,
+      "avg_weighted_score": 118.14,
       "is_playoff_seed": true,
-      "seed": 3
+      "seed": 4
     },
     {
       "pair_id": 1,
@@ -375,14 +447,14 @@
       "expert_roster_id": 6,
       "beginner_name": "rachellee2",
       "expert_name": "jacky33",
-      "wins": 0.0,
-      "losses": 4.0,
-      "ties": 0.0,
-      "points_for": 423.2,
-      "points_against": 607.22,
-      "weighted_score_total": 191.65,
+      "wins": 0.5,
+      "losses": 5.0,
+      "ties": 1.0,
+      "points_for": 684.38,
+      "points_against": 880.32,
+      "weighted_score_total": 314.42,
       "upsets_total": 0,
-      "weeks_played": 2,
+      "weeks_played": 3,
       "weekly_history": [
         {
           "week": 1,
@@ -399,12 +471,20 @@
           "points": 182.12,
           "weighted_score": 77.0,
           "upset": false
+        },
+        {
+          "week": 3,
+          "wins": 0.5,
+          "losses": 1.0,
+          "points": 261.18,
+          "weighted_score": 122.77,
+          "upset": false
         }
       ],
       "rank": 5,
-      "win_pct": 0.0,
-      "avg_points": 211.6,
-      "avg_weighted_score": 95.83,
+      "win_pct": 0.091,
+      "avg_points": 228.13,
+      "avg_weighted_score": 104.81,
       "is_playoff_seed": false,
       "seed": null
     }
@@ -415,11 +495,11 @@
       "role": "beginner",
       "name": "davidleechy",
       "team_name": "Team 10",
-      "wins": 2.0,
+      "wins": 3.0,
       "losses": 0.0,
       "ties": 0.0,
-      "points_for": 278.8,
-      "points_against": 191.18,
+      "points_for": 395.2,
+      "points_against": 300.46,
       "rank": 1,
       "win_pct": 1.0
     },
@@ -428,13 +508,13 @@
       "role": "beginner",
       "name": "skylar9ook",
       "team_name": "Team 3",
-      "wins": 1.0,
+      "wins": 2.0,
       "losses": 1.0,
       "ties": 0.0,
-      "points_for": 304.78,
-      "points_against": 315.16,
+      "points_for": 427.74,
+      "points_against": 426.2,
       "rank": 2,
-      "win_pct": 0.5
+      "win_pct": 0.667
     },
     {
       "roster_id": 7,
@@ -442,12 +522,12 @@
       "name": "christineypoo",
       "team_name": "Team 7",
       "wins": 1.0,
-      "losses": 1.0,
+      "losses": 2.0,
       "ties": 0.0,
-      "points_for": 273.8,
-      "points_against": 249.94,
+      "points_for": 400.8,
+      "points_against": 405.08,
       "rank": 3,
-      "win_pct": 0.5
+      "win_pct": 0.333
     },
     {
       "roster_id": 2,
@@ -455,12 +535,12 @@
       "name": "bobop1",
       "team_name": "Team 2",
       "wins": 1.0,
-      "losses": 1.0,
+      "losses": 2.0,
       "ties": 0.0,
-      "points_for": 243.78,
-      "points_against": 247.32,
+      "points_for": 353.06,
+      "points_against": 363.72,
       "rank": 4,
-      "win_pct": 0.5
+      "win_pct": 0.333
     },
     {
       "roster_id": 5,
@@ -468,79 +548,79 @@
       "name": "rachellee2",
       "team_name": "Team 5",
       "wins": 0.0,
-      "losses": 2.0,
+      "losses": 3.0,
       "ties": 0.0,
-      "points_for": 161.74,
-      "points_against": 325.4,
+      "points_for": 272.78,
+      "points_against": 448.36,
       "rank": 5,
       "win_pct": 0.0
     }
   ],
   "mentor_leaderboard": [
     {
+      "roster_id": 9,
+      "role": "expert",
+      "name": "richardhermanto",
+      "team_name": "Team 9",
+      "wins": 3.0,
+      "losses": 0.0,
+      "ties": 0.0,
+      "points_for": 467.12,
+      "points_against": 397.94,
+      "rank": 1,
+      "win_pct": 1.0
+    },
+    {
       "roster_id": 8,
       "role": "expert",
       "name": "clee4144",
       "team_name": "Team 8",
       "wins": 2.0,
-      "losses": 0.0,
+      "losses": 1.0,
       "ties": 0.0,
-      "points_for": 348.96,
-      "points_against": 215.78,
-      "rank": 1,
-      "win_pct": 1.0
-    },
-    {
-      "roster_id": 9,
-      "role": "expert",
-      "name": "richardhermanto",
-      "team_name": "Team 9",
-      "wins": 2.0,
-      "losses": 0.0,
-      "ties": 0.0,
-      "points_for": 311.98,
-      "points_against": 270.94,
+      "points_for": 459.14,
+      "points_against": 338.96,
       "rank": 2,
-      "win_pct": 1.0
+      "win_pct": 0.667
     },
     {
       "roster_id": 4,
       "role": "expert",
       "name": "zimiiiiiiii",
       "team_name": "Gattouz\u2019s Left Nut",
-      "wins": 1.0,
+      "wins": 2.0,
       "losses": 1.0,
       "ties": 0.0,
-      "points_for": 234.44,
-      "points_against": 246.16,
+      "points_for": 357.62,
+      "points_against": 356.34,
       "rank": 3,
-      "win_pct": 0.5
+      "win_pct": 0.667
     },
     {
       "roster_id": 6,
       "role": "expert",
       "name": "jacky33",
       "team_name": "Team 6",
-      "wins": 0.0,
+      "wins": 0.5,
       "losses": 2.0,
-      "ties": 0.0,
-      "points_for": 261.46,
-      "points_against": 281.82,
+      "ties": 1.0,
+      "points_for": 411.6,
+      "points_against": 431.96,
       "rank": 4,
-      "win_pct": 0.0
+      "win_pct": 0.143
     },
     {
       "roster_id": 1,
       "role": "expert",
       "name": "drakemayeluvr1",
       "team_name": "drakemaye",
-      "wins": 0.0,
+      "wins": 0.5,
       "losses": 2.0,
-      "ties": 0.0,
-      "points_for": 208.44,
-      "points_against": 284.48,
+      "ties": 1.0,
+      "points_for": 358.58,
+      "points_against": 434.62,
       "rank": 5,
-      "win_pct": 0.0
+      "win_pct": 0.143
     }
   ],
   "playoffs_preview": {
@@ -552,14 +632,14 @@
         "expert_roster_id": 9,
         "beginner_name": "davidleechy",
         "expert_name": "richardhermanto",
-        "wins": 4.5,
+        "wins": 6.5,
         "losses": 0.0,
         "ties": 0.0,
-        "points_for": 590.78,
-        "points_against": 462.12,
-        "weighted_score_total": 288.76,
+        "points_for": 862.32,
+        "points_against": 698.4,
+        "weighted_score_total": 416.78,
         "upsets_total": 1,
-        "weeks_played": 2,
+        "weeks_played": 3,
         "weekly_history": [
           {
             "week": 1,
@@ -576,96 +656,22 @@
             "points": 252.82,
             "weighted_score": 127.77,
             "upset": false
+          },
+          {
+            "week": 3,
+            "wins": 2.0,
+            "losses": 0.0,
+            "points": 271.54,
+            "weighted_score": 128.02,
+            "upset": false
           }
         ],
         "rank": 1,
         "win_pct": 1.0,
-        "avg_points": 295.39,
-        "avg_weighted_score": 144.38,
+        "avg_points": 287.44,
+        "avg_weighted_score": 138.93,
         "is_playoff_seed": true,
         "seed": 1
-      },
-      "seed_low": {
-        "pair_id": 3,
-        "pair_name": "skylar & eunchaeluvr",
-        "beginner_roster_id": 3,
-        "expert_roster_id": 1,
-        "beginner_name": "skylar9ook",
-        "expert_name": "drakemayeluvr1",
-        "wins": 1.5,
-        "losses": 3.0,
-        "ties": 0.0,
-        "points_for": 513.22,
-        "points_against": 599.64,
-        "weighted_score_total": 275.88,
-        "upsets_total": 1,
-        "weeks_played": 2,
-        "weekly_history": [
-          {
-            "week": 1,
-            "wins": 0.0,
-            "losses": 2.0,
-            "points": 281.42,
-            "weighted_score": 153.21,
-            "upset": false
-          },
-          {
-            "week": 2,
-            "wins": 1.5,
-            "losses": 1.0,
-            "points": 231.8,
-            "weighted_score": 122.67,
-            "upset": true
-          }
-        ],
-        "rank": 4,
-        "win_pct": 0.333,
-        "avg_points": 256.61,
-        "avg_weighted_score": 137.94,
-        "is_playoff_seed": true,
-        "seed": 4
-      }
-    },
-    "semifinal_2": {
-      "seed_high": {
-        "pair_id": 4,
-        "pair_name": "clee4144 & christineypoo",
-        "beginner_roster_id": 7,
-        "expert_roster_id": 8,
-        "beginner_name": "christineypoo",
-        "expert_name": "clee4144",
-        "wins": 3.5,
-        "losses": 1.0,
-        "ties": 0.0,
-        "points_for": 622.76,
-        "points_against": 465.72,
-        "weighted_score_total": 296.35,
-        "upsets_total": 1,
-        "weeks_played": 2,
-        "weekly_history": [
-          {
-            "week": 1,
-            "wins": 2.5,
-            "losses": 0.0,
-            "points": 357.06,
-            "weighted_score": 171.7,
-            "upset": true
-          },
-          {
-            "week": 2,
-            "wins": 1.0,
-            "losses": 1.0,
-            "points": 265.7,
-            "weighted_score": 124.65,
-            "upset": false
-          }
-        ],
-        "rank": 2,
-        "win_pct": 0.778,
-        "avg_points": 311.38,
-        "avg_weighted_score": 148.18,
-        "is_playoff_seed": true,
-        "seed": 2
       },
       "seed_low": {
         "pair_id": 5,
@@ -674,14 +680,14 @@
         "expert_roster_id": 4,
         "beginner_name": "bobop1",
         "expert_name": "zimiiiiiiii",
-        "wins": 2.0,
-        "losses": 2.0,
+        "wins": 3.0,
+        "losses": 3.0,
         "ties": 0.0,
-        "points_for": 478.22,
-        "points_against": 493.48,
-        "weighted_score_total": 240.98,
+        "points_for": 710.68,
+        "points_against": 720.06,
+        "weighted_score_total": 354.43,
         "upsets_total": 0,
-        "weeks_played": 2,
+        "weeks_played": 3,
         "weekly_history": [
           {
             "week": 1,
@@ -698,12 +704,118 @@
             "points": 250.44,
             "weighted_score": 119.12,
             "upset": false
+          },
+          {
+            "week": 3,
+            "wins": 1.0,
+            "losses": 1.0,
+            "points": 232.46,
+            "weighted_score": 113.45,
+            "upset": false
+          }
+        ],
+        "rank": 4,
+        "win_pct": 0.5,
+        "avg_points": 236.89,
+        "avg_weighted_score": 118.14,
+        "is_playoff_seed": true,
+        "seed": 4
+      }
+    },
+    "semifinal_2": {
+      "seed_high": {
+        "pair_id": 4,
+        "pair_name": "clee4144 & christineypoo",
+        "beginner_roster_id": 7,
+        "expert_roster_id": 8,
+        "beginner_name": "christineypoo",
+        "expert_name": "clee4144",
+        "wins": 3.5,
+        "losses": 3.0,
+        "ties": 0.0,
+        "points_for": 859.94,
+        "points_against": 744.04,
+        "weighted_score_total": 418.3,
+        "upsets_total": 1,
+        "weeks_played": 3,
+        "weekly_history": [
+          {
+            "week": 1,
+            "wins": 2.5,
+            "losses": 0.0,
+            "points": 357.06,
+            "weighted_score": 171.7,
+            "upset": true
+          },
+          {
+            "week": 2,
+            "wins": 1.0,
+            "losses": 1.0,
+            "points": 265.7,
+            "weighted_score": 124.65,
+            "upset": false
+          },
+          {
+            "week": 3,
+            "wins": 0.0,
+            "losses": 2.0,
+            "points": 237.18,
+            "weighted_score": 121.95,
+            "upset": false
+          }
+        ],
+        "rank": 2,
+        "win_pct": 0.538,
+        "avg_points": 286.65,
+        "avg_weighted_score": 139.43,
+        "is_playoff_seed": true,
+        "seed": 2
+      },
+      "seed_low": {
+        "pair_id": 3,
+        "pair_name": "skylar & eunchaeluvr",
+        "beginner_roster_id": 3,
+        "expert_roster_id": 1,
+        "beginner_name": "skylar9ook",
+        "expert_name": "drakemayeluvr1",
+        "wins": 3.0,
+        "losses": 3.0,
+        "ties": 1.0,
+        "points_for": 786.32,
+        "points_against": 860.82,
+        "weighted_score_total": 406.99,
+        "upsets_total": 1,
+        "weeks_played": 3,
+        "weekly_history": [
+          {
+            "week": 1,
+            "wins": 0.0,
+            "losses": 2.0,
+            "points": 281.42,
+            "weighted_score": 153.21,
+            "upset": false
+          },
+          {
+            "week": 2,
+            "wins": 1.5,
+            "losses": 1.0,
+            "points": 231.8,
+            "weighted_score": 122.67,
+            "upset": true
+          },
+          {
+            "week": 3,
+            "wins": 1.5,
+            "losses": 0.0,
+            "points": 273.1,
+            "weighted_score": 131.11,
+            "upset": false
           }
         ],
         "rank": 3,
         "win_pct": 0.5,
-        "avg_points": 239.11,
-        "avg_weighted_score": 120.49,
+        "avg_points": 262.11,
+        "avg_weighted_score": 135.66,
         "is_playoff_seed": true,
         "seed": 3
       }
@@ -1450,7 +1562,7 @@
     },
     {
       "week": 3,
-      "is_unplayed": true,
+      "is_unplayed": false,
       "matchup_games": [
         {
           "matchup_id": 3,
@@ -1458,18 +1570,18 @@
             "roster_id": 1,
             "name": "drakemayeluvr1",
             "role": "expert",
-            "points": 0.0,
-            "win": 0.0,
-            "win_credited": 0.0,
+            "points": 150.14,
+            "win": 0.5,
+            "win_credited": 0.5,
             "upset": false
           },
           "team2": {
             "roster_id": 6,
             "name": "jacky33",
             "role": "expert",
-            "points": 0.0,
-            "win": 0.0,
-            "win_credited": 0.0,
+            "points": 150.14,
+            "win": 0.5,
+            "win_credited": 0.5,
             "upset": false
           },
           "margin": 0.0,
@@ -1482,7 +1594,7 @@
             "roster_id": 2,
             "name": "bobop1",
             "role": "beginner",
-            "points": 0.0,
+            "points": 109.28,
             "win": 0.0,
             "win_credited": 0.0,
             "upset": false
@@ -1491,12 +1603,12 @@
             "roster_id": 10,
             "name": "davidleechy",
             "role": "beginner",
-            "points": 0.0,
-            "win": 0.0,
-            "win_credited": 0.0,
+            "points": 116.4,
+            "win": 1.0,
+            "win_credited": 1.0,
             "upset": false
           },
-          "margin": 0.0,
+          "margin": 7.12,
           "is_upset": false,
           "upset_winner": null
         },
@@ -1506,6 +1618,325 @@
             "roster_id": 3,
             "name": "skylar9ook",
             "role": "beginner",
+            "points": 122.96,
+            "win": 1.0,
+            "win_credited": 1.0,
+            "upset": false
+          },
+          "team2": {
+            "roster_id": 5,
+            "name": "rachellee2",
+            "role": "beginner",
+            "points": 111.04,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "margin": 11.92,
+          "is_upset": false,
+          "upset_winner": null
+        },
+        {
+          "matchup_id": 2,
+          "team1": {
+            "roster_id": 4,
+            "name": "zimiiiiiiii",
+            "role": "expert",
+            "points": 123.18,
+            "win": 1.0,
+            "win_credited": 1.0,
+            "upset": false
+          },
+          "team2": {
+            "roster_id": 8,
+            "name": "clee4144",
+            "role": "expert",
+            "points": 110.18,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "margin": 13.0,
+          "is_upset": false,
+          "upset_winner": null
+        },
+        {
+          "matchup_id": 1,
+          "team1": {
+            "roster_id": 7,
+            "name": "christineypoo",
+            "role": "beginner",
+            "points": 127.0,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "team2": {
+            "roster_id": 9,
+            "name": "richardhermanto",
+            "role": "expert",
+            "points": 155.14,
+            "win": 1.0,
+            "win_credited": 1.0,
+            "upset": false
+          },
+          "margin": 28.14,
+          "is_upset": false,
+          "upset_winner": null
+        }
+      ],
+      "individual_results": {
+        "1": {
+          "points": 150.14,
+          "opponent_roster_id": 6,
+          "opponent_points": 150.14,
+          "opponent_role": "expert",
+          "win": 0.5,
+          "loss": 0.0,
+          "tie": 1.0,
+          "win_credited": 0.5,
+          "upset": false,
+          "margin": 0.0
+        },
+        "6": {
+          "points": 150.14,
+          "opponent_roster_id": 1,
+          "opponent_points": 150.14,
+          "opponent_role": "expert",
+          "win": 0.5,
+          "loss": 0.0,
+          "tie": 1.0,
+          "win_credited": 0.5,
+          "upset": false,
+          "margin": 0.0
+        },
+        "2": {
+          "points": 109.28,
+          "opponent_roster_id": 10,
+          "opponent_points": 116.4,
+          "opponent_role": "beginner",
+          "win": 0.0,
+          "loss": 1.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 7.12
+        },
+        "10": {
+          "points": 116.4,
+          "opponent_roster_id": 2,
+          "opponent_points": 109.28,
+          "opponent_role": "beginner",
+          "win": 1.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 1.0,
+          "upset": false,
+          "margin": 7.12
+        },
+        "3": {
+          "points": 122.96,
+          "opponent_roster_id": 5,
+          "opponent_points": 111.04,
+          "opponent_role": "beginner",
+          "win": 1.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 1.0,
+          "upset": false,
+          "margin": 11.92
+        },
+        "5": {
+          "points": 111.04,
+          "opponent_roster_id": 3,
+          "opponent_points": 122.96,
+          "opponent_role": "beginner",
+          "win": 0.0,
+          "loss": 1.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 11.92
+        },
+        "4": {
+          "points": 123.18,
+          "opponent_roster_id": 8,
+          "opponent_points": 110.18,
+          "opponent_role": "expert",
+          "win": 1.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 1.0,
+          "upset": false,
+          "margin": 13.0
+        },
+        "8": {
+          "points": 110.18,
+          "opponent_roster_id": 4,
+          "opponent_points": 123.18,
+          "opponent_role": "expert",
+          "win": 0.0,
+          "loss": 1.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 13.0
+        },
+        "7": {
+          "points": 127.0,
+          "opponent_roster_id": 9,
+          "opponent_points": 155.14,
+          "opponent_role": "expert",
+          "win": 0.0,
+          "loss": 1.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 28.14
+        },
+        "9": {
+          "points": 155.14,
+          "opponent_roster_id": 7,
+          "opponent_points": 127.0,
+          "opponent_role": "beginner",
+          "win": 1.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 1.0,
+          "upset": false,
+          "margin": 28.14
+        }
+      },
+      "pair_results": [
+        {
+          "pair_id": 1,
+          "pair_name": "jacky33 & rachellee2",
+          "beginner_roster_id": 5,
+          "expert_roster_id": 6,
+          "beginner_name": "rachellee2",
+          "expert_name": "jacky33",
+          "beginner_points": 111.04,
+          "expert_points": 150.14,
+          "beginner_upset": false,
+          "combined_points": 261.18,
+          "opponent_points": 273.1,
+          "wins": 0.5,
+          "losses": 1.0,
+          "ties": 1.0,
+          "weighted_score": 122.77,
+          "upsets_count": 0
+        },
+        {
+          "pair_id": 2,
+          "pair_name": "davidleechy & richardhermanto",
+          "beginner_roster_id": 10,
+          "expert_roster_id": 9,
+          "beginner_name": "davidleechy",
+          "expert_name": "richardhermanto",
+          "beginner_points": 116.4,
+          "expert_points": 155.14,
+          "beginner_upset": false,
+          "combined_points": 271.54,
+          "opponent_points": 236.28,
+          "wins": 2.0,
+          "losses": 0.0,
+          "ties": 0.0,
+          "weighted_score": 128.02,
+          "upsets_count": 0
+        },
+        {
+          "pair_id": 3,
+          "pair_name": "skylar & eunchaeluvr",
+          "beginner_roster_id": 3,
+          "expert_roster_id": 1,
+          "beginner_name": "skylar9ook",
+          "expert_name": "drakemayeluvr1",
+          "beginner_points": 122.96,
+          "expert_points": 150.14,
+          "beginner_upset": false,
+          "combined_points": 273.1,
+          "opponent_points": 261.18,
+          "wins": 1.5,
+          "losses": 0.0,
+          "ties": 1.0,
+          "weighted_score": 131.11,
+          "upsets_count": 0
+        },
+        {
+          "pair_id": 4,
+          "pair_name": "clee4144 & christineypoo",
+          "beginner_roster_id": 7,
+          "expert_roster_id": 8,
+          "beginner_name": "christineypoo",
+          "expert_name": "clee4144",
+          "beginner_points": 127.0,
+          "expert_points": 110.18,
+          "beginner_upset": false,
+          "combined_points": 237.18,
+          "opponent_points": 278.32,
+          "wins": 0.0,
+          "losses": 2.0,
+          "ties": 0.0,
+          "weighted_score": 121.95,
+          "upsets_count": 0
+        },
+        {
+          "pair_id": 5,
+          "pair_name": "bobop & zimi",
+          "beginner_roster_id": 2,
+          "expert_roster_id": 4,
+          "beginner_name": "bobop1",
+          "expert_name": "zimiiiiiiii",
+          "beginner_points": 109.28,
+          "expert_points": 123.18,
+          "beginner_upset": false,
+          "combined_points": 232.46,
+          "opponent_points": 226.58,
+          "wins": 1.0,
+          "losses": 1.0,
+          "ties": 0.0,
+          "weighted_score": 113.45,
+          "upsets_count": 0
+        }
+      ],
+      "awards": {
+        "highest_combined_score": {
+          "title": "Highest Combined Score",
+          "winner": "skylar & eunchaeluvr",
+          "score": 273.1,
+          "detail": "skylar9ook (122.96 pts) + drakemayeluvr1 (150.14 pts)"
+        },
+        "biggest_blowout": {
+          "title": "Biggest Blowout",
+          "winner": "richardhermanto",
+          "loser": "christineypoo",
+          "margin": 28.14,
+          "detail": "155.14 to 127.0 (+28.14 margin)"
+        },
+        "closest_match": {
+          "title": "Closest Match",
+          "winner": "drakemayeluvr1",
+          "loser": "jacky33",
+          "margin": 0.0,
+          "detail": "150.14 to 150.14 (separated by only 0.0 pts!)"
+        },
+        "best_upset": {
+          "title": "Best Upset",
+          "winner": "None",
+          "detail": "No beginner upsets occurred this week."
+        }
+      }
+    },
+    {
+      "week": 4,
+      "is_unplayed": true,
+      "matchup_games": [
+        {
+          "matchup_id": 4,
+          "team1": {
+            "roster_id": 1,
+            "name": "drakemayeluvr1",
+            "role": "expert",
             "points": 0.0,
             "win": 0.0,
             "win_credited": 0.0,
@@ -1525,7 +1956,31 @@
           "upset_winner": null
         },
         {
-          "matchup_id": 2,
+          "matchup_id": 5,
+          "team1": {
+            "roster_id": 2,
+            "name": "bobop1",
+            "role": "beginner",
+            "points": 0.0,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "team2": {
+            "roster_id": 3,
+            "name": "skylar9ook",
+            "role": "beginner",
+            "points": 0.0,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "margin": 0.0,
+          "is_upset": false,
+          "upset_winner": null
+        },
+        {
+          "matchup_id": 3,
           "team1": {
             "roster_id": 4,
             "name": "zimiiiiiiii",
@@ -1536,8 +1991,32 @@
             "upset": false
           },
           "team2": {
-            "roster_id": 8,
-            "name": "clee4144",
+            "roster_id": 10,
+            "name": "davidleechy",
+            "role": "beginner",
+            "points": 0.0,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "margin": 0.0,
+          "is_upset": false,
+          "upset_winner": null
+        },
+        {
+          "matchup_id": 2,
+          "team1": {
+            "roster_id": 6,
+            "name": "jacky33",
+            "role": "expert",
+            "points": 0.0,
+            "win": 0.0,
+            "win_credited": 0.0,
+            "upset": false
+          },
+          "team2": {
+            "roster_id": 9,
+            "name": "richardhermanto",
             "role": "expert",
             "points": 0.0,
             "win": 0.0,
@@ -1560,8 +2039,8 @@
             "upset": false
           },
           "team2": {
-            "roster_id": 9,
-            "name": "richardhermanto",
+            "roster_id": 8,
+            "name": "clee4144",
             "role": "expert",
             "points": 0.0,
             "win": 0.0,
@@ -1576,9 +2055,9 @@
       "individual_results": {
         "1": {
           "points": 0.0,
-          "opponent_roster_id": 6,
+          "opponent_roster_id": 5,
           "opponent_points": 0.0,
-          "opponent_role": "expert",
+          "opponent_role": "beginner",
           "win": 0.0,
           "loss": 0.0,
           "tie": 0.0,
@@ -1586,7 +2065,7 @@
           "upset": false,
           "margin": 0.0
         },
-        "6": {
+        "5": {
           "points": 0.0,
           "opponent_roster_id": 1,
           "opponent_points": 0.0,
@@ -1600,6 +2079,30 @@
         },
         "2": {
           "points": 0.0,
+          "opponent_roster_id": 3,
+          "opponent_points": 0.0,
+          "opponent_role": "beginner",
+          "win": 0.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 0.0
+        },
+        "3": {
+          "points": 0.0,
+          "opponent_roster_id": 2,
+          "opponent_points": 0.0,
+          "opponent_role": "beginner",
+          "win": 0.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 0.0
+        },
+        "4": {
+          "points": 0.0,
           "opponent_roster_id": 10,
           "opponent_points": 0.0,
           "opponent_role": "beginner",
@@ -1612,54 +2115,6 @@
         },
         "10": {
           "points": 0.0,
-          "opponent_roster_id": 2,
-          "opponent_points": 0.0,
-          "opponent_role": "beginner",
-          "win": 0.0,
-          "loss": 0.0,
-          "tie": 0.0,
-          "win_credited": 0.0,
-          "upset": false,
-          "margin": 0.0
-        },
-        "3": {
-          "points": 0.0,
-          "opponent_roster_id": 5,
-          "opponent_points": 0.0,
-          "opponent_role": "beginner",
-          "win": 0.0,
-          "loss": 0.0,
-          "tie": 0.0,
-          "win_credited": 0.0,
-          "upset": false,
-          "margin": 0.0
-        },
-        "5": {
-          "points": 0.0,
-          "opponent_roster_id": 3,
-          "opponent_points": 0.0,
-          "opponent_role": "beginner",
-          "win": 0.0,
-          "loss": 0.0,
-          "tie": 0.0,
-          "win_credited": 0.0,
-          "upset": false,
-          "margin": 0.0
-        },
-        "4": {
-          "points": 0.0,
-          "opponent_roster_id": 8,
-          "opponent_points": 0.0,
-          "opponent_role": "expert",
-          "win": 0.0,
-          "loss": 0.0,
-          "tie": 0.0,
-          "win_credited": 0.0,
-          "upset": false,
-          "margin": 0.0
-        },
-        "8": {
-          "points": 0.0,
           "opponent_roster_id": 4,
           "opponent_points": 0.0,
           "opponent_role": "expert",
@@ -1670,7 +2125,7 @@
           "upset": false,
           "margin": 0.0
         },
-        "7": {
+        "6": {
           "points": 0.0,
           "opponent_roster_id": 9,
           "opponent_points": 0.0,
@@ -1683,6 +2138,30 @@
           "margin": 0.0
         },
         "9": {
+          "points": 0.0,
+          "opponent_roster_id": 6,
+          "opponent_points": 0.0,
+          "opponent_role": "expert",
+          "win": 0.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 0.0
+        },
+        "7": {
+          "points": 0.0,
+          "opponent_roster_id": 8,
+          "opponent_points": 0.0,
+          "opponent_role": "expert",
+          "win": 0.0,
+          "loss": 0.0,
+          "tie": 0.0,
+          "win_credited": 0.0,
+          "upset": false,
+          "margin": 0.0
+        },
+        "8": {
           "points": 0.0,
           "opponent_roster_id": 7,
           "opponent_points": 0.0,
